@@ -17,7 +17,6 @@ library(readxl)
 ```
 
 ```{r}
-sheet1 <- read_csv("workMoney.csv")
 sheet<- read_excel("workMoney.xlsx")
 ```
 
